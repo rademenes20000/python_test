@@ -1,1 +1,2 @@
-nowy plik asasasasa
+print ("nowy plik asasasasa")
+
